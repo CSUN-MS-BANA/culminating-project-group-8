@@ -1,1 +1,42 @@
+Entities:
+Country
 
+Attributes:
+CountryID (PK)
+CountryName
+Region
+IncomeGroup
+Population
+Economic Indicator
+
+Attributes:
+IndicatorID (PK)
+IndicatorName
+Unit
+Source
+Debt Data
+
+Attributes:
+DebtDataID (PK)
+CountryID (FK)
+Year
+DebtToGDP
+ExternalDebtService
+Environmental Data
+
+Attributes:
+EnvDataID (PK)
+CountryID (FK)
+Year
+CO2Emissions
+GDPPerCapita
+Relationships:
+Country-Economic Indicator:
+One-to-Many (1:N) relationship.
+One country has multiple economic indicators over time.
+Country-Debt Data:
+One-to-Many (1:N) relationship.
+One country has multiple debt data records over time.
+Country-Environmental Data:
+One-to-Many (1:N) relationship.
+One country has multiple environmental data records over time.
