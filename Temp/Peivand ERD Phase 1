@@ -1,42 +1,57 @@
-Entities:
+Entity-Relationship (ER) Model for World Bank Datasets
+
+1. World Development Indicators (WDI)
+
+Entities and Attributes
+
 Country
 
-Attributes:
-CountryID (PK)
-CountryName
+Country_ID (PK)
+
+Name
+
 Region
-IncomeGroup
-Population
-Economic Indicator
 
-Attributes:
-IndicatorID (PK)
-IndicatorName
-Unit
+Income_Level
+
+Indicator
+
+Indicator_ID (PK)
+
+Name
+
+Description
+
 Source
-Debt Data
 
-Attributes:
-DebtDataID (PK)
-CountryID (FK)
-Year
-DebtToGDP
-ExternalDebtService
-Environmental Data
+Category (Economy, Education, Environment)
 
-Attributes:
-EnvDataID (PK)
-CountryID (FK)
+Data_Record
+
+Record_ID (PK)
+
+Country_ID (FK)
+
+Indicator_ID (FK)
+
 Year
-CO2Emissions
-GDPPerCapita
-Relationships:
-Country-Economic Indicator:
-One-to-Many (1:N) relationship.
-One country has multiple economic indicators over time.
-Country-Debt Data:
-One-to-Many (1:N) relationship.
-One country has multiple debt data records over time.
-Country-Environmental Data:
-One-to-Many (1:N) relationship.
-One country has multiple environmental data records over time.
+
+Value
+
+Relationships
+
+A Country has multiple Data_Records.
+
+One-to-Many (Country → Data_Record)
+
+Each Data_Record corresponds to one Indicator.
+
+One-to-Many (Indicator → Data_Record)
+
+
+
+
+
+
+
+
