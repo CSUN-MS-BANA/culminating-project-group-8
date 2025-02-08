@@ -22,27 +22,42 @@
 - How does external debt correlate with public sector employment rates in low-income countries? (WDI & IDS)
 - How does debt servicing affect the availability of funds for infrastructure development in low-income nations? (WDI & IDS)
 
-## 2️⃣ CO₂ Emissions, Environmental Impact & GDP (Using WDI & Climate Change Data)
-- What is the relationship between GDP per capita growth and CO₂ emissions per capita in developed nations from 1990 to 2023? (WDI & Climate Change Knowledge Portal)
-- How have CO₂ emissions changed in the top 10 economies with the highest GDP per capita? (WDI & Climate Change Data)
-- Do high-income countries emit less CO₂ per unit of GDP than middle-income countries? (WDI)
-- How does the shift towards renewable energy investment impact CO₂ emissions in fast-growing economies? (WDI & Climate Change Data)
-- Which developing countries have successfully reduced CO₂ emissions while increasing GDP per capita? (WDI)
-- How has CO₂ intensity (CO₂ emissions per unit of GDP) evolved in major oil-exporting countries? (WDI)
-- What is the correlation between urbanization rates and CO₂ emissions growth? (WDI & Climate Change Data)
-- Have carbon taxes or climate policies influenced CO₂ emissions per capita in European countries? (WDI)
-- How do CO₂ emissions per capita differ between industrial-based and service-based economies? (WDI)
-- What is the impact of deforestation rates on CO₂ emissions trends in Brazil, Indonesia, and the Congo? (WDI & Climate Change Data)
-- How do countries with a high reliance on coal energy manage CO₂ emissions while increasing GDP? (WDI & Climate Change Data)
-- What role do subsidies for fossil fuels play in CO₂ emissions trends in emerging economies? (WDI & Climate Change Data)
-- How do CO₂ emissions trends compare between countries with high levels of industrialization vs. agrarian economies? (WDI)
-- What impact do international environmental agreements have on CO₂ emissions in high-income countries? (WDI & Climate Change Data)
-- Do countries with high biodiversity also experience slower growth in CO₂ emissions? (WDI)
-- How do changes in transportation infrastructure affect CO₂ emissions growth in urbanized nations? (WDI)
-- How does the expansion of electric vehicle use influence CO₂ emissions in developed economies? (WDI & Climate Change Data)
-- What is the role of carbon markets in reducing CO₂ emissions in middle-income countries? (WDI & Climate Change Data)
-- How do energy efficiency improvements in buildings affect CO₂ emissions in developed economies? (WDI & Climate Change Data)
-- Does investing in green bonds correlate with CO₂ reduction goals in high-income countries? (WDI & Climate Change Data)
+Debt and Economic Growth
+How does a country's external debt affect its GDP growth over time?
+Is there a correlation between external debt and inflation rates in developing countries?
+What is the impact of sovereign debt levels on foreign direct investment (FDI)?
+How does debt-to-GDP ratio vary across low-income and high-income countries?
+Does higher external debt lead to lower economic stability in emerging markets?
+Debt Composition and Structure
+What percentage of total external debt is held by public vs. private sectors across regions?
+How has the composition of external debt (short-term vs. long-term) changed over the last 20 years?
+What is the relationship between concessional debt and economic development in low-income countries?
+How do debt service obligations vary between low-income and high-income countries?
+What role does multilateral debt play in the financial stability of developing economies?
+Debt Repayment and Financial Health
+What is the impact of high debt service payments on government expenditure in social sectors?
+How do debt restructuring programs influence a country’s credit rating?
+Is there a link between external debt and currency depreciation in heavily indebted nations?
+How do high debt service obligations affect foreign exchange reserves?
+What strategies have been successful in reducing debt burdens for highly indebted countries?
+Regional and Country Comparisons
+How do Sub-Saharan African countries compare to South Asian countries in terms of external debt levels?
+What are the major differences in debt structure between Latin American and East Asian economies?
+Which countries have been most successful in reducing their external debt-to-GDP ratio over the last decade?
+What are the patterns of external borrowing among BRICS countries?
+How does external debt affect economic stability in oil-exporting vs. oil-importing nations?
+Debt and Social Development
+How does external debt influence education and healthcare spending in developing nations?
+What is the relationship between external debt and poverty reduction efforts?
+Does high external debt contribute to greater inequality within countries?
+How does foreign debt impact government investment in renewable energy and infrastructure projects?
+What is the impact of IMF and World Bank debt relief programs on social development indicators?
+Debt Crises and Risk Factors
+What are the early warning indicators of a sovereign debt crisis?
+How do political stability and governance affect a country's ability to manage external debt?
+What is the relationship between external debt accumulation and financial crises?
+How have global financial shocks (e.g., 2008 crisis, COVID-19) influenced debt levels in developing countries?
+What lessons can be learned from past debt defaults to prevent future financial crises?
 
 ## 3️⃣ Debt, Development & Sustainability (Using IDS, WDI & Climate Change Data)
 - Do countries with high external debt levels invest less in clean energy transitions? (IDS & Climate Change Data)
