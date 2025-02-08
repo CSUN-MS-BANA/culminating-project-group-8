@@ -21,7 +21,7 @@
 - What is the long-term impact of foreign debt on the fiscal health of countries in Latin America? (IDS & WDI)
 - How does external debt correlate with public sector employment rates in low-income countries? (WDI & IDS)
 - How does debt servicing affect the availability of funds for infrastructure development in low-income nations? (WDI & IDS)
-
+International Debt Statistics** – Debt-related financial data
 Debt and Economic Growth
 How does a country's external debt affect its GDP growth over time?
 Is there a correlation between external debt and inflation rates in developing countries?
