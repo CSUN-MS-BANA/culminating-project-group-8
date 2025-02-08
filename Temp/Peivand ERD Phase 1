@@ -1,3 +1,66 @@
+Entity-Relationship (ER) Model for World Bank Datasets
+1. World Development Indicators (WDI)
+Entities and Attributes
+Country
+•	Country_ID (PK)
+•	Name
+•	Region
+•	Income_Level
+Indicator
+•	Indicator_ID (PK)
+•	Name
+•	Description
+•	Source
+•	Category (Economy, Education, Environment)
+Data_Record
+•	Record_ID (PK)
+•	Country_ID (FK)
+•	Indicator_ID (FK)
+•	Year
+•	Value
+Relationships
+1.	A Country has multiple Data_Records. 
+o	One-to-Many (Country → Data_Record)
+2.	Each Data_Record corresponds to one Indicator. 
+o	One-to-Many (Indicator → Data_Record)
+________________________________________
+2. International Debt Statistics (IDS)
+Entities and Attributes
+Country
+•	Country_ID (PK)
+•	Name
+•	Region
+•	Income_Level
+Debt_Statistics
+•	Debt_ID (PK)
+•	Country_ID (FK)
+•	External_Debt
+•	Debt_to_GDP
+•	Debt_Service
+•	Credit_Rating
+•	Year
+Relationships
+1.	A Country has one set of Debt_Statistics per year. 
+o	One-to-One (Country → Debt_Statistics)
+________________________________________
+3. Global Financial Development Database (GFDD)
+Entities and Attributes
+Country
+•	Country_ID (PK)
+•	Name
+•	Region
+•	Income_Level
+Financial_System
+•	Financial_System_ID (PK)
+•	Country_ID (FK)
+•	Financial_Inclusion_Rate
+•	Bank_Stability_Index
+•	Regulation_Index
+•	Private_Sector_Credit
+•	Year
+Relationships
+1.	A Country has one Financial_System record per year. 
+o	One-to-One (Country → Financial_System)
 
 
 
