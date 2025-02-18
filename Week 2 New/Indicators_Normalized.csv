@@ -1,0 +1,109 @@
+Indicator_ID,Indicator_Name
+NY.GDP.MKTP.PP.KD,"GDP, PPP (constant 2021 international $)"
+NY.GDP.MKTP.PP.CD,"GDP, PPP (current international $)"
+SE.PRM.TENR,"Adjusted net enrollment rate, primary (% of primary school age children)"
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)"
+NY.GDP.DEFL.KD.ZG.AD,"Inflation, GDP deflator: linked series (annual %)"
+NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)"
+NE.RSB.GNFS.KN,External balance on goods and services (constant LCU)
+NE.RSB.GNFS.CD,External balance on goods and services (current US$)
+TG.VAL.TOTL.GD.ZS,Merchandise trade (% of GDP)
+BN.CAB.XOKA.GD.ZS,Current account balance (% of GDP)
+NE.RSB.GNFS.ZS,External balance on goods and services (% of GDP)
+NE.RSB.GNFS.CN,External balance on goods and services (current LCU)
+NE.TRD.GNFS.ZS,Trade (% of GDP)
+BG.GSR.NFSV.GD.ZS,Trade in services (% of GDP)
+BM.KLT.DINV.CD.WD,"Foreign direct investment, net outflows (BoP, current US$)"
+SH.XPD.GHED.CH.ZS,Domestic general government health expenditure (% of current health expenditure)
+SH.XPD.GHED.GE.ZS,Domestic general government health expenditure (% of general government expenditure)
+SH.XPD.GHED.GD.ZS,Domestic general government health expenditure (% of GDP)
+SE.XPD.PRIM.ZS,Expenditure on primary education (% of government expenditure on education)
+SE.XPD.SECO.ZS,Expenditure on secondary education (% of government expenditure on education)
+NE.CON.GOVT.KD.ZG,General government final consumption expenditure (annual % growth)
+SE.XPD.TERT.PC.ZS,"Government expenditure per student, tertiary (% of GDP per capita)"
+SE.XPD.PRIM.PC.ZS,"Government expenditure per student, primary (% of GDP per capita)"
+SE.XPD.SECO.PC.ZS,"Government expenditure per student, secondary (% of GDP per capita)"
+SE.XPD.TOTL.GB.ZS,"Government expenditure on education, total (% of government expenditure)"
+GE.STD.ERR,Government Effectiveness: Standard Error
+NE.CON.GOVT.ZS,General government final consumption expenditure (% of GDP)
+NE.CON.GOVT.KD,General government final consumption expenditure (constant 2015 US$)
+NE.CON.GOVT.CN,General government final consumption expenditure (current LCU)
+GE.EST,Government Effectiveness: Estimate
+SP.DYN.LE00.FE.IN,"Life expectancy at birth, female (years)"
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)"
+SP.DYN.LE00.MA.IN,"Life expectancy at birth, male (years)"
+SE.ADT.LITR.MA.ZS,"Literacy rate, adult male (% of males ages 15 and above)"
+SE.ADT.LITR.FE.ZS,"Literacy rate, adult female (% of females ages 15 and above)"
+SE.ADT.LITR.ZS,"Literacy rate, adult total (% of people ages 15 and above)"
+SE.ADT.1524.LT.FE.ZS,"Literacy rate, youth female (% of females ages 15-24)"
+SE.ADT.1524.LT.ZS,"Literacy rate, youth total (% of people ages 15-24)"
+SE.ADT.1524.LT.FM.ZS,"Literacy rate, youth (ages 15-24), gender parity index (GPI)"
+SE.ADT.1524.LT.MA.ZS,"Literacy rate, youth male (% of males ages 15-24)"
+SI.POV.LMIC.GP,Poverty gap at $3.65 a day (2017 PPP) (%)
+SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%)
+SI.POV.UMIC.GP,Poverty gap at $6.85 a day (2017 PPP) (%)
+SI.POV.LMIC,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population)
+SI.POV.DDAY,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population)
+SI.POV.UMIC,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population)
+SI.POV.SOPO,Poverty headcount ratio at societal poverty line (% of population)
+SI.POV.NAHC,Poverty headcount ratio at national poverty lines (% of population)
+SL.UEM.INTM.MA.ZS,"Unemployment with intermediate education, male (% of male labor force with intermediate education)"
+SL.UEM.TOTL.FE.NE.ZS,"Unemployment, female (% of female labor force) (national estimate)"
+SL.UEM.TOTL.MA.ZS,"Unemployment, male (% of male labor force) (modeled ILO estimate)"
+SL.UEM.TOTL.FE.ZS,"Unemployment, female (% of female labor force) (modeled ILO estimate)"
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)"
+SL.UEM.1524.FE.ZS,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)"
+SL.UEM.TOTL.MA.NE.ZS,"Unemployment, male (% of male labor force) (national estimate)"
+SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)"
+SH.H2O.BASW.RU.ZS,"People using at least basic drinking water services, rural (% of rural population)"
+SH.H2O.BASW.UR.ZS,"People using at least basic drinking water services, urban (% of urban population)"
+SH.H2O.SMDW.ZS,People using safely managed drinking water services (% of population)
+SH.H2O.SMDW.RU.ZS,"People using safely managed drinking water services, rural (% of rural population)"
+SH.H2O.SMDW.UR.ZS,"People using safely managed drinking water services, urban (% of urban population)"
+ER.H2O.INTR.K3,"Renewable internal freshwater resources, total (billion cubic meters)"
+ER.GDP.FWTL.M3.KD,"Water productivity, total (constant 2015 US$ GDP per cubic meter of total freshwater withdrawal)"
+EN.GHG.CO2.ZG.AR5,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990)
+DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI)
+DT.DOD.DPNG.CD,"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)"
+DT.DOD.DLXF.CD,"External debt stocks, long-term (DOD, current US$)"
+DT.DOD.DPPG.CD,"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)"
+DT.DOD.DECT.CD,"External debt stocks, total (DOD, current US$)"
+NY.GDP.MKTP.KD,GDP (constant 2015 US$)
+NY.GDP.MKTP.CN,GDP (current LCU)
+NY.GDP.MKTP.KN,GDP (constant LCU)
+NY.GDP.MKTP.CD,GDP (current US$)
+NY.GDP.DEFL.ZS,GDP deflator (base year varies by country)
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+NY.GDP.DEFL.ZS.AD,GDP deflator: linked series (base year varies by country)
+NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$)
+NY.GDP.PCAP.CN,GDP per capita (current LCU)
+NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %)
+NY.GDP.PCAP.KN,GDP per capita (constant LCU)
+NY.GDP.PCAP.CD,GDP per capita (current US$)
+NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)"
+SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $)
+NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)"
+NY.GDP.MKTP.CN.AD,GDP: linked series (current LCU)
+NY.ADJ.DNGY.GN.ZS,Adjusted savings: energy depletion (% of GNI)
+EN.GHG.CO2.FE.MT.CE.AR5,Carbon dioxide (CO2) emissions from Fugitive Emissions (Energy) (Mt CO2e)
+EN.GHG.CO2.BU.MT.CE.AR5,Carbon dioxide (CO2) emissions from Building (Energy) (Mt CO2e)
+EN.GHG.CO2.IC.MT.CE.AR5,Carbon dioxide (CO2) emissions from Industrial Combustion (Energy) (Mt CO2e)
+EN.GHG.CO2.PI.MT.CE.AR5,Carbon dioxide (CO2) emissions from Power Industry (Energy) (Mt CO2e)
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)"
+EN.GHG.CO2.TR.MT.CE.AR5,Carbon dioxide (CO2) emissions from Transport (Energy) (Mt CO2e)
+EG.ELC.RNWX.KH,"Electricity production from renewable sources, excluding hydroelectric (kWh)"
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)"
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)"
+NV.AGR.TOTL.CN,"Agriculture, forestry, and fishing, value added (current LCU)"
+AG.LND.FRST.ZS,Forest area (% of land area)
+NY.GDP.FRST.RT.ZS,Forest rents (% of GDP)
+FM.LBL.BMNY.GD.ZS,Broad money (% of GDP)
+FM.LBL.BMNY.ZG,Broad money growth (annual %)
+FM.LBL.BMNY.CN,Broad money (current LCU)
+FM.LBL.BMNY.IR.ZS,Broad money to total reserves ratio
+PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)"
+PA.NUS.PPPC.RF,Price level ratio of PPP conversion factor (GDP) to market exchange rate
+,
+" is largely due to reclassification of primary forest to ""other naturally regenerated forest"" because of selective logging and other human interventions. Large-scale planting of trees is significantly reducing the net loss of forest area globally", 0.4 percent over a ten-year period
+ in particular tropical moist forests, i.e. forest of native species where there are no clearly visible indications of human activities and the ecological processes have not been significantly disturbed. Primary forests
